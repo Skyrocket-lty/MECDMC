@@ -35,5 +35,5 @@ This file contains the Python code for our algorithm.
 ### Running steps:
 Step 1: we run “GRBF.py”. Its input are the SM similarity matrix and the miRNA similarity matrix. The output are the final SM similarity matrix and the final miRNA similarity matrix.\
 Step 2: we execute “MECDMC.py”. Its input are the SM-miRNA association matrix, the final SM similarity matrix, the final miRNA similarity matrix. Its output is the SM-miRNA predictive score matrix.
-### Contact
-If you have any problems or find mistakes, please feel free to contact me: z22070050@s.upc.edu.cn
+
+
