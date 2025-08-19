@@ -1,10 +1,3 @@
-# -*- codeing = utf-8 -*-
-# @Time : 2023/3/24 21:17
-# @Author : 刘体耀
-# @File : CMCFGRBF.py
-# @Software: PyCharm
-
-
 import numpy as np
 #import pandas as pd
 from sklearn import metrics
@@ -186,5 +179,6 @@ if __name__ == "__main__":
 
     X_1 = run_MC(Y1)  #Truncated schattenp norm minimization
     M_1 = run_MC_2(X_1)  #Low-rank matrix factorization
+
 
 
